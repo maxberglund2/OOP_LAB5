@@ -8,15 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28e1d352-63dd-4555-a3c2-d2c078a26c4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_LAB5.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_LAB5/OOP_LAB5.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP_LAB5/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_LAB5/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_LAB5/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728978490614</updated>
-      <workItem from="1728978492380" duration="2327000" />
+      <workItem from="1728978492380" duration="2778000" />
     </task>
     <servers />
   </component>
